@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Berry cream",
+      "image": "https://i.ibb.co/RvB1XzM/pexels-suju-1132558.jpg",
+      "recipe": "Mix flour, cocoa powder, sugar, eggs, and butter. Bake at 350°F for 30 minutes.",
+      "category": "Dessert",
+      "price": 12.99
+    },
+    {
+      "id": 2,
+      "name": "Cheesecake",
+      "image": "https://i.ibb.co/Y8s79J5/pexels-suzyhazelwood-1126359.jpg",
+      "recipe": "Mix cream cheese, sugar, and eggs. Pour over graham cracker crust. Bake at 325°F for 45 minutes.",
+      "category": "Dessert",
+      "price": 15.99
+    },
+    {
+      "id": 3,
+      "name": "Caesar Salad",
+      "image": "https://i.ibb.co/gtkVnwL/pexels-pixabay-434258-1.jpg",
+      "recipe": "Mix romaine lettuce, croutons, Caesar dressing, Parmesan cheese, and grilled chicken.",
+      "category": "Salad",
+      "price": 9.99
+    },
+    {
+      "id": 4,
+      "name": "Greek Salad",
+      "image": "https://i.ibb.co/7YfJqyL/pexels-chanwalrus-1059905.jpg",
+      "recipe": "Mix cucumbers, tomatoes, feta cheese, olives, and red onions. Drizzle with olive oil and oregano.",
+      "category": "Salad",
+      "price": 8.99
+    },
+    {
+      "id": 5,
+      "name": "Margherita Pizza",
+      "image": "https://i.ibb.co/Fg0RwC9/pexels-vince-2147491.jpg",
+      "recipe": "Top pizza dough with tomato sauce, fresh mozzarella, and basil. Bake at 475°F for 10 minutes.",
+      "category": "Pizza",
+      "price": 13.99
+    },
+    {
+      "id": 6,
+      "name": "Pepperoni Pizza",
+      "image": "https://i.ibb.co/09fZ60w/pexels-enginakyurt-2619970.jpg",
+      "recipe": "Top pizza dough with tomato sauce, mozzarella cheese, and pepperoni slices. Bake at 475°F for 10 minutes.",
+      "category": "Pizza",
+      "price": 14.99
+    },
+    {
+      "id": 7,
+      "name": "Tomato Soup",
+      "image": "https://i.ibb.co/7J0G4gz/pexels-foodie-factor-162291-539451.jpg",
+      "recipe": "Simmer tomatoes, onions, garlic, and basil. Blend until smooth. Serve hot.",
+      "category": "Soup",
+      "price": 7.99
+    }
+  ]
+  
